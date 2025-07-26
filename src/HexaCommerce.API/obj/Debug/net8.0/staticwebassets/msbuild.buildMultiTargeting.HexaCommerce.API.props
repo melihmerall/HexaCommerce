@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HexaCommerce.API.props" />
+</Project>

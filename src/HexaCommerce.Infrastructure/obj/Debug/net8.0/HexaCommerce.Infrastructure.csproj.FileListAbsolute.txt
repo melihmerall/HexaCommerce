@@ -1,0 +1,17 @@
+D:\HexaCommerce\src\HexaCommerce.Infrastructure\bin\Debug\net8.0\HexaCommerce.Infrastructure.deps.json
+D:\HexaCommerce\src\HexaCommerce.Infrastructure\bin\Debug\net8.0\HexaCommerce.Infrastructure.dll
+D:\HexaCommerce\src\HexaCommerce.Infrastructure\bin\Debug\net8.0\HexaCommerce.Infrastructure.pdb
+D:\HexaCommerce\src\HexaCommerce.Infrastructure\bin\Debug\net8.0\HexaCommerce.Application.dll
+D:\HexaCommerce\src\HexaCommerce.Infrastructure\bin\Debug\net8.0\HexaCommerce.Domain.dll
+D:\HexaCommerce\src\HexaCommerce.Infrastructure\bin\Debug\net8.0\HexaCommerce.Domain.pdb
+D:\HexaCommerce\src\HexaCommerce.Infrastructure\bin\Debug\net8.0\HexaCommerce.Application.pdb
+D:\HexaCommerce\src\HexaCommerce.Infrastructure\obj\Debug\net8.0\HexaCommerce.Infrastructure.csproj.AssemblyReference.cache
+D:\HexaCommerce\src\HexaCommerce.Infrastructure\obj\Debug\net8.0\HexaCommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\HexaCommerce\src\HexaCommerce.Infrastructure\obj\Debug\net8.0\HexaCommerce.Infrastructure.AssemblyInfoInputs.cache
+D:\HexaCommerce\src\HexaCommerce.Infrastructure\obj\Debug\net8.0\HexaCommerce.Infrastructure.AssemblyInfo.cs
+D:\HexaCommerce\src\HexaCommerce.Infrastructure\obj\Debug\net8.0\HexaCommerce.Infrastructure.csproj.CoreCompileInputs.cache
+D:\HexaCommerce\src\HexaCommerce.Infrastructure\obj\Debug\net8.0\HexaComm.4AEE51FC.Up2Date
+D:\HexaCommerce\src\HexaCommerce.Infrastructure\obj\Debug\net8.0\HexaCommerce.Infrastructure.dll
+D:\HexaCommerce\src\HexaCommerce.Infrastructure\obj\Debug\net8.0\refint\HexaCommerce.Infrastructure.dll
+D:\HexaCommerce\src\HexaCommerce.Infrastructure\obj\Debug\net8.0\HexaCommerce.Infrastructure.pdb
+D:\HexaCommerce\src\HexaCommerce.Infrastructure\obj\Debug\net8.0\ref\HexaCommerce.Infrastructure.dll

@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DFFC2AFA-9725-4BFD-B472-F8061769BA9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaCommerce.Domain", "src\HexaCommerce.Domain\HexaCommerce.Domain.csproj", "{7C6D2928-F1A0-4B9C-8534-B34128526C46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaCommerce.Application", "src\HexaCommerce.Application\HexaCommerce.Application.csproj", "{EDD1A68E-1EBB-4EDB-836C-D0E37114BA5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaCommerce.Infrastructure", "src\HexaCommerce.Infrastructure\HexaCommerce.Infrastructure.csproj", "{970745AA-9FBD-4786-8544-F99A24C5CCA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaCommerce.API", "src\HexaCommerce.API\HexaCommerce.API.csproj", "{11E4CEF0-4E77-4BDC-A97D-CE666F9DACFE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{701B9664-3B96-4AB9-AF73-76B459746BAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaCommerce.UnitTests", "tests\HexaCommerce.UnitTests\HexaCommerce.UnitTests.csproj", "{9C4791C8-2230-45B6-AB52-EA8AEF67727A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaCommerce.IntegrationTests", "tests\HexaCommerce.IntegrationTests\HexaCommerce.IntegrationTests.csproj", "{F795E650-224B-4946-B629-AD69403DEFD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C6D2928-F1A0-4B9C-8534-B34128526C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6D2928-F1A0-4B9C-8534-B34128526C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6D2928-F1A0-4B9C-8534-B34128526C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6D2928-F1A0-4B9C-8534-B34128526C46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDD1A68E-1EBB-4EDB-836C-D0E37114BA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD1A68E-1EBB-4EDB-836C-D0E37114BA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD1A68E-1EBB-4EDB-836C-D0E37114BA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD1A68E-1EBB-4EDB-836C-D0E37114BA5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{970745AA-9FBD-4786-8544-F99A24C5CCA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970745AA-9FBD-4786-8544-F99A24C5CCA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970745AA-9FBD-4786-8544-F99A24C5CCA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970745AA-9FBD-4786-8544-F99A24C5CCA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11E4CEF0-4E77-4BDC-A97D-CE666F9DACFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E4CEF0-4E77-4BDC-A97D-CE666F9DACFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E4CEF0-4E77-4BDC-A97D-CE666F9DACFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E4CEF0-4E77-4BDC-A97D-CE666F9DACFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C4791C8-2230-45B6-AB52-EA8AEF67727A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4791C8-2230-45B6-AB52-EA8AEF67727A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4791C8-2230-45B6-AB52-EA8AEF67727A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4791C8-2230-45B6-AB52-EA8AEF67727A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F795E650-224B-4946-B629-AD69403DEFD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F795E650-224B-4946-B629-AD69403DEFD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F795E650-224B-4946-B629-AD69403DEFD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F795E650-224B-4946-B629-AD69403DEFD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7C6D2928-F1A0-4B9C-8534-B34128526C46} = {DFFC2AFA-9725-4BFD-B472-F8061769BA9A}
+		{EDD1A68E-1EBB-4EDB-836C-D0E37114BA5A} = {DFFC2AFA-9725-4BFD-B472-F8061769BA9A}
+		{970745AA-9FBD-4786-8544-F99A24C5CCA0} = {DFFC2AFA-9725-4BFD-B472-F8061769BA9A}
+		{11E4CEF0-4E77-4BDC-A97D-CE666F9DACFE} = {DFFC2AFA-9725-4BFD-B472-F8061769BA9A}
+		{9C4791C8-2230-45B6-AB52-EA8AEF67727A} = {701B9664-3B96-4AB9-AF73-76B459746BAA}
+		{F795E650-224B-4946-B629-AD69403DEFD1} = {701B9664-3B96-4AB9-AF73-76B459746BAA}
+	EndGlobalSection
+EndGlobal

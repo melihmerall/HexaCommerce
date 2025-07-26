@@ -1,0 +1,11 @@
+D:\HexaCommerce\src\HexaCommerce.Domain\bin\Debug\net8.0\HexaCommerce.Domain.deps.json
+D:\HexaCommerce\src\HexaCommerce.Domain\bin\Debug\net8.0\HexaCommerce.Domain.dll
+D:\HexaCommerce\src\HexaCommerce.Domain\bin\Debug\net8.0\HexaCommerce.Domain.pdb
+D:\HexaCommerce\src\HexaCommerce.Domain\obj\Debug\net8.0\HexaCommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\HexaCommerce\src\HexaCommerce.Domain\obj\Debug\net8.0\HexaCommerce.Domain.AssemblyInfoInputs.cache
+D:\HexaCommerce\src\HexaCommerce.Domain\obj\Debug\net8.0\HexaCommerce.Domain.AssemblyInfo.cs
+D:\HexaCommerce\src\HexaCommerce.Domain\obj\Debug\net8.0\HexaCommerce.Domain.csproj.CoreCompileInputs.cache
+D:\HexaCommerce\src\HexaCommerce.Domain\obj\Debug\net8.0\HexaCommerce.Domain.dll
+D:\HexaCommerce\src\HexaCommerce.Domain\obj\Debug\net8.0\refint\HexaCommerce.Domain.dll
+D:\HexaCommerce\src\HexaCommerce.Domain\obj\Debug\net8.0\HexaCommerce.Domain.pdb
+D:\HexaCommerce\src\HexaCommerce.Domain\obj\Debug\net8.0\ref\HexaCommerce.Domain.dll
