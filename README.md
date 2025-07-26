@@ -226,19 +226,19 @@ This project is licensed under a **Proprietary License** - see the [LICENSE](LIC
 
 ## 📞 Contact
 
-- **Website**: https://hexacommerce.com
-- **Email**: contact@hexacommerce.com
-- **GitHub**: https://github.com/hexacommerce
-- **LinkedIn**: https://linkedin.com/company/hexacommerce
+- **Website**: https://hexaops.net
+- **Email**: info@hexaops.net
+- **Phone**: +90 507 675 8399
+- **Address**: Teknokent - Kahramanmaraş
 
 ---
 
 <div align="center">
 
-**Built with ❤️ by the HexaCommerce Team**
+**Built with ❤️ by the HexaOps Team**
 
-[![GitHub stars](https://img.shields.io/github/stars/hexacommerce/hexacommerce?style=social)](https://github.com/hexacommerce/hexacommerce)
-[![GitHub forks](https://img.shields.io/github/forks/hexacommerce/hexacommerce?style=social)](https://github.com/hexacommerce/hexacommerce)
-[![GitHub issues](https://img.shields.io/github/issues/hexacommerce/hexacommerce)](https://github.com/hexacommerce/hexacommerce/issues)
+[![GitHub stars](https://img.shields.io/github/stars/hexaops/hexacommerce?style=social)](https://github.com/hexaops/hexacommerce)
+[![GitHub forks](https://img.shields.io/github/forks/hexaops/hexacommerce?style=social)](https://github.com/hexaops/hexacommerce)
+[![GitHub issues](https://img.shields.io/github/issues/hexaops/hexacommerce)](https://github.com/hexaops/hexacommerce/issues)
 
 </div> 
